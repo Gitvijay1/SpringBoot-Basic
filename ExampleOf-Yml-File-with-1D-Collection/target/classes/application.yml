@@ -1,0 +1,14 @@
+app:
+  format:
+    model:
+    - java
+    - python
+    - Spring
+    empdtl:
+    - rukhi
+    - kushinagar
+    - femal
+    empsal:
+    - 2399
+    - 3546
+    - 536536

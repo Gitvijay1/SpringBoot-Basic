@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "app.format",
+      "type": "com.app.runner.EmpRunner",
+      "sourceType": "com.app.runner.EmpRunner"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.format.empdtl",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.app.runner.EmpRunner"
+    },
+    {
+      "name": "app.format.empsal",
+      "type": "java.util.Set<java.lang.Integer>",
+      "sourceType": "com.app.runner.EmpRunner"
+    },
+    {
+      "name": "app.format.model",
+      "type": "java.lang.String[]",
+      "sourceType": "com.app.runner.EmpRunner"
+    }
+  ],
+  "hints": []
+}
