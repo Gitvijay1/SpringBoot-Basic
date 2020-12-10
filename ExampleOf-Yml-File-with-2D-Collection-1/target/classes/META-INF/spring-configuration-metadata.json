@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "app.format",
+      "type": "com.app.runner.ProdRunner",
+      "sourceType": "com.app.runner.ProdRunner"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.format.empdtls",
+      "type": "java.util.Properties",
+      "sourceType": "com.app.runner.ProdRunner"
+    },
+    {
+      "name": "app.format.pdtls",
+      "type": "java.util.Map<java.lang.String,java.lang.Integer>",
+      "sourceType": "com.app.runner.ProdRunner"
+    }
+  ],
+  "hints": []
+}

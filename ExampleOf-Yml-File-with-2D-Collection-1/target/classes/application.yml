@@ -1,0 +1,12 @@
+app:
+  format:
+    pdtls:
+      m1: 123
+      m2: 1233
+      m3: 36456
+    empdtls:
+      ename: raja
+      eid: 255hshh
+      ename1: rukhi
+          
+  
