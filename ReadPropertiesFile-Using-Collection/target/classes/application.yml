@@ -1,0 +1,13 @@
+app:
+  mydata:
+    format: 'yes'
+    model: NEW
+    sid: 98
+  pinfo:
+    code: ABC
+    mode: SAMPLE
+    vendor: NIT
+  pmcount:
+    m1: 55
+    m2: 69
+    m3: 42
