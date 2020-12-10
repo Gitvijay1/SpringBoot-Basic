@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "emp.format",
+      "type": "com.app.runner.EmpRunner",
+      "sourceType": "com.app.runner.EmpRunner"
+    }
+  ],
+  "properties": [
+    {
+      "name": "emp.format.eid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.app.runner.EmpRunner"
+    },
+    {
+      "name": "emp.format.ename",
+      "type": "java.lang.String",
+      "sourceType": "com.app.runner.EmpRunner"
+    },
+    {
+      "name": "emp.format.job",
+      "type": "java.lang.String",
+      "sourceType": "com.app.runner.EmpRunner"
+    },
+    {
+      "name": "emp.format.sal",
+      "type": "java.lang.Double",
+      "sourceType": "com.app.runner.EmpRunner"
+    }
+  ],
+  "hints": []
+}

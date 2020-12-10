@@ -1,0 +1,6 @@
+emp:
+  format:
+    eid: 101
+    ename: rukhi
+    job: google
+    sal: 28900.90
