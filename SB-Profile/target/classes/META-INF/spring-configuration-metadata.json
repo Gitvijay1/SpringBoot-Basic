@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app.format",
+      "type": "com.app.ProfileRunner",
+      "sourceType": "com.app.ProfileRunner"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.format.db",
+      "type": "java.lang.String",
+      "sourceType": "com.app.ProfileRunner"
+    }
+  ],
+  "hints": []
+}
